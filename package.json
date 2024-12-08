@@ -1,0 +1,26 @@
+{
+  "name": "salary",
+  "version": "1.0.0",
+  "description": "# GRADE GENERATOR File: grade.js This program prompts the user to input a student's marks (0 - 100) and outputs the corresponding grade:",
+  "main": "grade.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanHacks/Week1-Retake-.git"
+  },
+  "author": "Hydan Cheruyot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanHacks/Week1-Retake-/issues"
+  },
+  "homepage": "https://github.com/DanHacks/Week1-Retake-#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "salaryCalculator"
+  ]
+}

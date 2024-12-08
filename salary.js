@@ -1,3 +1,4 @@
+const prompt = require("prompt-sync")();
 // NET SALARY CALCULATOR
 function netSalaryCalculator(basicSalary, benefits) {
     console.log(`Basic salary: ${basicSalary}, Benefits: ${benefits}`); // Log input values for debugging

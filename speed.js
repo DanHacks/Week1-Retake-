@@ -1,3 +1,4 @@
+const prompt = require("prompt-sync")();
 // SPEED DETECTOR
 function speedDetector(speed) {
     console.log(`Input speed: ${speed}`); // Log the input speed for debugging

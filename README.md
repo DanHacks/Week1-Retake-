@@ -1,21 +1,21 @@
 # week-1-code-challenge
 
 # GRADE GENERATOR
-File: generateGrade.js
+File: grade.js
 This program prompts the user to input a student's marks (0 - 100) and outputs the corresponding grade:
 
 Marks Range	Grade
 Above 79	A
-60 - 79	        B
-49 - 59	        C
-40 - 49	        D
+60 - 79	    B
+49 - 59	    C
+40 - 49	    D
 Below 40	E
 //How to Use:
 Run the script and input marks when prompted.
 
 
 # SPEED DETECTOR
-File: speedDetector.js
+File: speed.js
 This program evaluates the speed of a car and determines whether it's within the speed limit or assigns demerit points for exceeding it.
 
 Speed Limit: 70 km/h
@@ -28,7 +28,7 @@ Run the script and input the car's speed when prompted.
 
 
 # NET SALARY CALCULATOR
-File: netSalaryCalculator.js
+File: salary.js
 This program calculates an individual's net salary based on their basic salary and benefits. It includes deductions for:`-BN`
         PAYE Tax based on KRA rates.
         NHIF Deductions based on gross salary.

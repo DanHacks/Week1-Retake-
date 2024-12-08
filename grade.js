@@ -1,3 +1,4 @@
+const prompt = require("prompt-sync")();
 // GRADE GENERATOR
 function generateGrade(marks) {
     console.log(`Input marks: ${marks}`); // Log the input marks for debugging
