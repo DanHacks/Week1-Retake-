@@ -5,10 +5,10 @@ File: grade.js
 This program prompts the user to input a student's marks (0 - 100) and outputs the corresponding grade:
 
 Marks Range	Grade
-Above 79	A
-60 - 79	    B
-49 - 59	    C
-40 - 49	    D
+Above 80        A
+60 - 79	        B
+49 - 59	        C
+40 - 49	        D
 Below 40	E
 //How to Use:
 Run the script and input marks when prompted.
